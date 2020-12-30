@@ -6,8 +6,6 @@ by Assert Stack
 
 Dec 30 2020
 
-Boost your KPIs as a QA engineer - test cases, runs and bug reports.
-
 ### Contents:
 1. What Is Testing Skillbox plugin? 
 
